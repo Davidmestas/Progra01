@@ -6,7 +6,10 @@ namespace _2CastingTipos
     {
         static void Main(string[] args)
         {
-            // Equipo: Mestas Castro David y Maria del Carmen Castro Sanchez
+            // Instituto Tecnologico de Puebla
+            // Materia: Programacion 2
+            // Profesor: Nicolas Sanchez Sanchez
+            // Integrantes: Mestas Castro David 18221803 y Maria del Carmen Castro Sanchez (19221983)
 
             // 2) Trabajando con Casting de tipos inplicitos, explicitos
 
