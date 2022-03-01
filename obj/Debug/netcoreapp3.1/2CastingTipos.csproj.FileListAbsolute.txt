@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\bin\Debug\netcoreapp3.1\2CastingTipos.exe
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\bin\Debug\netcoreapp3.1\2CastingTipos.deps.json
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\bin\Debug\netcoreapp3.1\2CastingTipos.runtimeconfig.json
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\bin\Debug\netcoreapp3.1\2CastingTipos.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\bin\Debug\netcoreapp3.1\2CastingTipos.dll
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\bin\Debug\netcoreapp3.1\2CastingTipos.pdb
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.AssemblyInfo.cs
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.dll
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.pdb
+C:\Users\Acer\source\repos\2CastingTipos\2CastingTipos\obj\Debug\netcoreapp3.1\2CastingTipos.genruntimeconfig.cache
